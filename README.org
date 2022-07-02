@@ -1,0 +1,19 @@
+#+Title: Booker
+
+Proyecto de Programación Web 1
+
+* ¿Qué es Booker?
+
+  Booker es una plataforma web que busca dar acceso a libros de forma
+  virtual, fácil e intuitivo.
+
+* Funcionalidades
+
+  + Busqueda de libros
+  + Top 10 libros más recientes
+  + Panel de control para administradores (CRUD)
+  + Descarga desde un servidor tercero
+  + Busqueda en base de datos
+  + Diseño html
+  + Animaciones javascript
+  + Backend con django
